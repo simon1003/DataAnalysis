@@ -85,3 +85,6 @@ D:\DataAnalysis\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.CoreComp
 D:\DataAnalysis\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.csproj.CopyComplete
 D:\DataAnalysis\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.dll
 D:\DataAnalysis\DataAnalysis\DataAnalysis\obj\Debug\DataAnalysis.pdb
+D:\DataAnalysis\DataAnalysis\DataAnalysis\bin\DataAnalysis.Framework.Common.dll
+D:\DataAnalysis\DataAnalysis\DataAnalysis\bin\DataAnalysis.Framework.Common.pdb
+D:\DataAnalysis\DataAnalysis\DataAnalysis\bin\DataAnalysis.Framework.Common.dll.config

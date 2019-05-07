@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28306.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnalysis", "DataAnalysis\DataAnalysis.csproj", "{4109E0C8-7DFB-4538-AFD0-701A18A933CD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{855A8633-D758-49E1-84E6-101F981F35FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAnalysis.Framework.Common", "DataAnalysis.Framework.Common\DataAnalysis.Framework.Common.csproj", "{C9C226B1-06DA-41EB-9A2A-DB755B68C176}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{4109E0C8-7DFB-4538-AFD0-701A18A933CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4109E0C8-7DFB-4538-AFD0-701A18A933CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4109E0C8-7DFB-4538-AFD0-701A18A933CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C226B1-06DA-41EB-9A2A-DB755B68C176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C226B1-06DA-41EB-9A2A-DB755B68C176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C226B1-06DA-41EB-9A2A-DB755B68C176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C226B1-06DA-41EB-9A2A-DB755B68C176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C9C226B1-06DA-41EB-9A2A-DB755B68C176} = {855A8633-D758-49E1-84E6-101F981F35FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EED72A23-FD3D-4B7A-80D6-AE5C1E39D9ED}

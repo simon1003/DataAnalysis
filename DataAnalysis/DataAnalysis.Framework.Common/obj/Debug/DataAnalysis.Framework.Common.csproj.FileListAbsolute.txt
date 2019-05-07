@@ -1,0 +1,8 @@
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\obj\Debug\DataAnalysis.Framework.Common.Properties.Resources.resources
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\obj\Debug\DataAnalysis.Framework.Common.csproj.GenerateResource.cache
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\obj\Debug\DataAnalysis.Framework.Common.csproj.CoreCompileInputs.cache
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\bin\Debug\DataAnalysis.Framework.Common.dll.config
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\bin\Debug\DataAnalysis.Framework.Common.dll
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\bin\Debug\DataAnalysis.Framework.Common.pdb
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\obj\Debug\DataAnalysis.Framework.Common.dll
+D:\DataAnalysis\DataAnalysis\DataAnalysis.Framework.Common\obj\Debug\DataAnalysis.Framework.Common.pdb
